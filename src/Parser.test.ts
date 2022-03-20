@@ -40,3 +40,5 @@ it("recognizes Stack/GHC Compiling lines", () => {
     },
   ]);
 });
+
+it.todo("recognizes Stack/GHC warning lines");
